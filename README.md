@@ -1,4 +1,4 @@
-📬 AutoU Email AI – Classificador Inteligente de Emails
+📬 AutoU Email IA – Classificador Inteligente de Emails
 
 Olá! Esse projeto foi desenvolvido para o desafio técnico da AutoU, com o objetivo de facilitar o trabalho de equipes que recebem muitos emails diariamente. Ele permite:
 
